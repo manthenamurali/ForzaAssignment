@@ -8,7 +8,7 @@ import java.util.List;
  * Contract between teams activity and teams presenter
  * Created by Manthena Murali on 2/11/2018.
  */
-public class TeamsContract {
+public interface TeamsContract {
 
     interface View {
 
