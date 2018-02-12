@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="team_item_height">72dp</dimen>
+    <dimen name="recyclerView_padding_top">8dp</dimen>
+    <dimen name="recyclerView_padding_bototm">8dp</dimen>
+    <dimen name="team_item_horizontal_padding">16dp</dimen>
+
+    <dimen name="team_name_text_size">16sp</dimen>
+    <dimen name="team_country_text_size">14sp</dimen>
+
+</resources>
